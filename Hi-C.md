@@ -5,6 +5,7 @@ In order to visualize your Hi-C scaffolds in Juicebox, you need to run convert.s
 # The .jar File
 
 The .jar file is on the PWS module here: /panfs/pan.fsl.byu.edu/home/grp/fslg_pws_module/software/SALSA/juicer_tools_1.13.02.jar. 
+
 You can also download it from here: https://github.com/aidenlab/juicer/wiki/Download
 
 # convert.sh
