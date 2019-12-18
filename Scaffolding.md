@@ -57,3 +57,5 @@ Now you can run SALSA. Here is the code:
   Samtools - http://www.htslib.org/doc/samtools.1.html
   
   BWA - http://bio-bwa.sourceforge.net/
+  
+  bedtools - https://bedtools.readthedocs.io/en/latest/content/tools/bamtobed.html
