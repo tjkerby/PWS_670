@@ -53,5 +53,7 @@ Now you can run SALSA. Here is the code:
    
 # Resources
   SALSA - https://github.com/marbl/SALSA
+  
   Samtools - http://www.htslib.org/doc/samtools.1.html
+  
   BWA - http://bio-bwa.sourceforge.net/
