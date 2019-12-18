@@ -18,7 +18,7 @@ Run convert.sh from the command line like this:
         
 Where scaffolds is the output directory you specified in SALSA.
        
-# Juicebok
+# Juicebox
 
 This will create a salsa_scaffolds.hic file in the scaffolds directory. Pull this file down to your local machine to visualize in in Juicebox. ADD HOW TO DOWNLOAD JUICEBOX.
 
