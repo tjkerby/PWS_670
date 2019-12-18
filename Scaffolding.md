@@ -53,4 +53,5 @@ Now you can run SALSA. Here is the code:
    
 # Resources
   SALSA - https://github.com/marbl/SALSA
-  Samtools faidx - http://www.htslib.org/doc/faidx.5.html; http://www.htslib.org/doc/samtools-faidx.1.html
+  Samtools - http://www.htslib.org/doc/samtools.1.html
+  BWA - http://bio-bwa.sourceforge.net/
