@@ -1,5 +1,5 @@
 # Scaffolding with Hi-C Reads
-We scaffolded our assembly using Hi-C technology.  Watch this video from Phase Genomics if you don't remember how Hi-C works: https://youtu.be/-MxEw3IXUWU. Salsa is the program that uses the Hi-C reads to create the scaffolds. The scaffolds can then be visualized and improved in Juicebox.
+We scaffolded our assembly using Hi-C technology.  Watch this video from Phase Genomics if you don't remember how Hi-C works: https://youtu.be/-MxEw3IXUWU. SALSA is the program that uses the Hi-C reads to create the scaffolds. The scaffolds can then be visualized and improved in Juicebox.
 
 # SALSA 
 SALSA needs 3 input files: an assembly file in fasta format, a .fai file with the lengths of the contigs, and a .bed file of Hi-C reads mapped to the assembly. 
