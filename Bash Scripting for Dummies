@@ -6,6 +6,7 @@ Contents:
 * sed
 * awk
 * cut
+* sort, uniq
 * submitting jobs on slurm
 * how to write a file in a script
 * how to use pipes
