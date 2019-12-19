@@ -14,7 +14,6 @@ module load hisat2
 module load conda/bwa_0.7.17
 module load samtools/1.6
 module load stringtie 
-module load cufflinks/v2.2.1
 
 hisat2 -build -x /fslhome/emmakw/fsl_groups/fslg_pws670/compute/pws670_emma/annotate/jelly.out.pilon.fasta.fasta  hisat.index
 
@@ -26,4 +25,3 @@ stringtie --merge $alignments/$name.sorted.bam  [-l <label>] -o hisat_reference_
 
 stringtie -e $alignments/$name.sorted.bam  [-l <label>] -o hisat_reference_pilon_jelly_out.gtf -p 8
 
-cuffdiff -o -b -L -u hisat_reference_pilon_jelly_out.gtf
