@@ -4,15 +4,15 @@ In order to run trimmomatic on the BYU super computer you need to load module co
 
 Options to run in trimmomatic:
 
-ILLUMINACLIP   - Perform adapter removal.
-SLIDINGWINDOW	 - Perform sliding window trimming, cutting once the average quality within the window falls below a threshold.
-LEADING	       - Cut bases off the start of a read, if below a threshold quality.
-TRAILING	     - Cut bases off the end of a read, if below a threshold quality.
-CROP	         - Cut the read to a specified length.
-HEADCROP	     - Cut the specified number of bases from the start of the read.
-MINLEN	       - Drop an entire read if it is below a specified length.
-TOPHRED33	     - Convert quality scores to Phred-33.
-TOPHRED64	     - Convert quality scores to Phred-64.
+* ILLUMINACLIP: Perform adapter removal.
+* SLIDINGWINDOW: Perform sliding window trimming, cutting once the average quality within the window falls below a threshold.
+* LEADING: Cut bases off the start of a read, if below a threshold quality.
+* TRAILING: Cut bases off the end of a read, if below a threshold quality.
+* CROP: Cut the read to a specified length.
+* HEADCROP: Cut the specified number of bases from the start of the read.
+* MINLEN: Drop an entire read if it is below a specified length.
+* TOPHRED33: Convert quality scores to Phred-33.
+* TOPHRED64: Convert quality scores to Phred-64.
 
 Depending on whether your reads are single ended or pair ended you will use trimmomatic SE or trimmomatic PE respectively. The two scripts below are listed below with that same order.
 
