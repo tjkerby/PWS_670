@@ -43,6 +43,8 @@ First, you need a to set up a Protocol.xml file that contains information for PB
    To learn more about different options that can be run for each step, use 'Jelly.py <step> --help' on the command line.
   
    This script will create an ouput directory with several subdirectories. You can run assemblathon-stats on the jelly.out.fasta file and your reference to compare the number of Ns and the size of the gaps before and after gap filling with PBJelly.
+   
+   If you want to polish your gap-filled assembly, you will want to use the jelly.out.fast file. Consider copying this file to another directory and renaming it.
 
 
 # Resources
