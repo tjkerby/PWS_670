@@ -4,7 +4,7 @@
 #SBATCH --nodes=1   # number of nodes
 #SBATCH --ntasks=1   # number of processor cores (i.e. tasks)
 #SBATCH --mem-per-cpu=65536M   # memory per CPU core
-#SBATCH --mail-user=emmakate.wilcox3@gmail.com   # email address
+#SBATCH --mail-user={your email}   # email address
 #SBATCH --mail-type=FAIL
 
 module purge
