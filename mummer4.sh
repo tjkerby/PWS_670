@@ -5,7 +5,7 @@
 #SBATCH --nodes=1   # number of nodes
 #SBATCH --mem-per-cpu=32768M   # memory per CPU core
 #SBATCH -J "nucmer_mummerplot"   # job name
-#SBATCH --mail-user=   # email address
+#SBATCH --mail-user={email address}   # email address
 #SBATCH --mail-type=BEGIN
 #SBATCH --mail-type=END
 #SBATCH --mail-type=FAIL
