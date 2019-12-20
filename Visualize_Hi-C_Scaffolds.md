@@ -20,5 +20,5 @@ Where scaffolds is the output directory you specified in SALSA.
        
 # Juicebox
 
-This will create a salsa_scaffolds.hic file in the scaffolds directory. Pull this file down to your local machine to visualize in in Juicebox. ADD HOW TO DOWNLOAD JUICEBOX.
+This will create a salsa_scaffolds.hic file in the scaffolds directory. Pull this file down to your local machine to visualize in in Juicebox. Download Juicebox here: https://github.com/aidenlab/Juicebox/wiki/Download.  You may need to use the developer version.  Just open your .hic file in Juicebox to see a heat map of the interactions between different parts of your genome.
 
